@@ -121,6 +121,7 @@ p{
 .bauble{
     position: absolute;
     margin-top: -30px;
+    cursor: pointer;
 }
 
 .bauble .chain{
@@ -175,6 +176,10 @@ p{
     margin-top: 20px;
     margin-bottom: 110px;
     border-radius: 3px;
+}
+
+.gallery-links{
+    display: none;
 }
 
 
